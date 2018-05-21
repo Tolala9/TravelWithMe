@@ -1,5 +1,5 @@
 ## Hello World !!! 
-That's my **practising site** *(landing page)* for the portfolio. That's *not a commercial work*. 
+That's my **practicing site** *(landing page)* for the portfolio. That's *not a commercial work*. 
 Only for practice in new technology and design.
 You can [check out](http://luilmode.000webhostapp.com/) site on free Host [Travel with Me](http://practcssgrid.000webhostapp.com/)
 
